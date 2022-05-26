@@ -3,5 +3,5 @@ print ("o_______")
 print("  | | | |")
 
 age = int(input("What year where you born in"))
-print("You will be", 2030 - age , "in 2030.")
+print("You will be", 2030 - age , "in 2025.")
 
